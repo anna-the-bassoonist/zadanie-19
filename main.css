@@ -1,0 +1,19 @@
+body
+{background-color: beige;
+}
+.kwadrat{
+    width: 100px;
+    height: 100px;
+    margin: 10px 30px;
+    background-color: black;
+
+}
+.kwadrat2{
+   opacity: 0.5;   
+}
+.kwadrat3{
+    opacity: 0.25;
+}
+.kwadrat4{
+    opacity: 0.2;
+}
